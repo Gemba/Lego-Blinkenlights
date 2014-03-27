@@ -1,4 +1,4 @@
-*Note*: The documentation part is preliminary and will be updated in the next days: Currently I am busy with an [exhibition](www.steinchenwelt.ch) (NB: On this exhibition you can see this blinkenlights in action).
+*Note*: The documentation part is preliminary and will be updated in the next days: Currently I am busy with an [exhibition](http://www.steinchenwelt.ch) (NB: On this exhibition you can see this blinkenlights in action).
 
 
 Lego-Blinkenlights
