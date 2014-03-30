@@ -1,6 +1,3 @@
-*Note*: The documentation part is preliminary and will be updated in the next days: Currently I am busy with an [exhibition](http://www.steinchenwelt.ch) (NB: On this exhibition you can see this blinkenlights in action).
-
-
 Lego-Blinkenlights
 ==================
 
@@ -10,14 +7,14 @@ Enjoy!
 
 Contents
 --------
- * `doc` - assembly instructions and tipps, bill-of-material, schematics as PDF
+ * `doc` - assembly tips, bill-of-material, schematics as PDF
  * `doc/gschem` - pristine schematic file in gSchem/gEDA format
  * `doc/ldd` - contain the Lego Digital Designer files
  * `src` - the Arduino sources
- * `img` - some images
+ * `img` - an image of the finished work
 
 Licenses
 --------
  * source code is licensed under the GPLv3
- * schematics and images are CC-BY-NC-SA 3.0
+ * schematics and images are CC-BY-NC-SA 3.0 DE
 
